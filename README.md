@@ -151,7 +151,8 @@ http://localhost:3000/api/articles/3
 ```bash
 {
   "title": "Meu primeiro artigo",
-  "content": "Este é o conteúdo do artigo"
+  "description": "Descrição do artigo",
+  "body": "Conteúdo do artigo"
 }
 ```
 ## Conclusão
